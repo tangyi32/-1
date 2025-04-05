@@ -1,0 +1,12 @@
+<script>start("/Users/mgkyaw/Desktop/练习代码/仓库管理/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,128,"128 B",1743827577,"2025/4/5 11:02:57");</script>
+<script>addRow("instance","instance",1,128,"128 B",1743820666,"2025/4/5 09:07:46");</script>
+<script>addRow("static","static",1,128,"128 B",1743838340,"2025/4/5 14:02:20");</script>
+<script>addRow("templates","templates",1,448,"448 B",1743838289,"2025/4/5 14:01:29");</script>
+<script>addRow("venv","venv",1,224,"224 B",1743693626,"2025/4/3 21:50:26");</script>
+<script>addRow("app.py","app.py",0,4328,"4.2 kB",1743833290,"2025/4/5 12:38:10");</script>
+<script>addRow("config.py","config.py",0,0,"0 B",1743837097,"2025/4/5 13:41:37");</script>
+<script>addRow("models.py","models.py",0,0,"0 B",1743837107,"2025/4/5 13:41:47");</script>
+<script>addRow("requirements.txt","requirements.txt",0,0,"0 B",1743837162,"2025/4/5 13:42:42");</script>
+<script>addRow("warehouse.db","warehouse.db",0,12288,"12.0 kB",1743838340,"2025/4/5 14:02:20");</script>
