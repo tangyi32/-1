@@ -1,0 +1,7 @@
+<script>start("/Users/mgkyaw/Desktop/练习代码/创建虚拟环境/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,416,"416 B",1743678670,"2025/4/3 17:41:10");</script>
+<script>addRow("include","include",1,96,"96 B",1743678062,"2025/4/3 17:31:02");</script>
+<script>addRow("lib","lib",1,96,"96 B",1743678062,"2025/4/3 17:31:02");</script>
+<script>addRow(".gitignore",".gitignore",0,69,"69 B",1743678062,"2025/4/3 17:31:02");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,319,"319 B",1743678062,"2025/4/3 17:31:02");</script>
